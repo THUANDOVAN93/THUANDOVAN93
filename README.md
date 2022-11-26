@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thuandovan93@gmail.com**
 
-- 📄 Know about my experiences [https://thuancuder.com/wp-content/uploads/2018/07/About-Me.pdf](https://thuancuder.com/wp-content/uploads/2018/07/About-Me.pdf)
+- 📄 Know about my experiences [https://thuancuder.com/thuando/](https://thuancuder.com/wp-content/uploads/2018/07/About-Me.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
