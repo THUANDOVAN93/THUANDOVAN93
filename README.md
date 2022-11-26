@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thuan</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Thuan%2C+a+true+coder+%F0%9F%98%9C)](https://git.io/typing-svg)
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
 - 🔭 I’m currently working on [Nashtech](https://nashtechglobal.com/)
